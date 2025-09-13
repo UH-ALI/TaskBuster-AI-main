@@ -122,11 +122,11 @@ final_buster_project/
 
 ***
 
-## Contact
+## Authors
 
-For questions or feedback, contact:  
-- Muhammad Rayyan Ayub  
-- Muhammad Umair Ali
+Hafiz Muhammad Umair Ali
+
+Muhammad Rayyan Ayub
 
 ***
 
